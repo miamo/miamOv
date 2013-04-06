@@ -1,0 +1,4 @@
+kernel/drivers/power/power_supply.ko
+kernel/drivers/power/sec_battery_px.ko
+kernel/drivers/power/max17042_fuelgauge_px.ko
+kernel/drivers/power/smb347_charger.ko

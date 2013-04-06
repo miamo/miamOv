@@ -1,0 +1,5 @@
+kernel/drivers/sensor/lsm330dlc_accel.ko
+kernel/drivers/sensor/lsm330dlc_gyro.ko
+kernel/drivers/sensor/ak8975.ko
+kernel/drivers/sensor/bh1721.ko
+kernel/drivers/sensor/al3201.ko

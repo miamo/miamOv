@@ -1,0 +1,1 @@
+cmd_fs/cifs/cifs.ko := /usr/local/arm/arm-eabi-4.4.3/bin/arm-eabi-ld -EL -r  -T /home/miamo/android/kernel/miamOv/scripts/module-common.lds --build-id  -o fs/cifs/cifs.ko fs/cifs/cifs.o fs/cifs/cifs.mod.o

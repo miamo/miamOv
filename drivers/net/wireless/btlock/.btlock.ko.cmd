@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/btlock/btlock.ko := /usr/local/arm/arm-eabi-4.4.3/bin/arm-eabi-ld -EL -r  -T /home/miamo/android/kernel/miamOv/scripts/module-common.lds --build-id  -o drivers/net/wireless/btlock/btlock.ko drivers/net/wireless/btlock/btlock.o drivers/net/wireless/btlock/btlock.mod.o

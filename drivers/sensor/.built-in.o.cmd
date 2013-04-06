@@ -1,0 +1,1 @@
+cmd_drivers/sensor/built-in.o :=  /usr/local/arm/arm-eabi-4.4.3/bin/arm-eabi-ld -EL    -r -o drivers/sensor/built-in.o drivers/sensor/sensors_core.o drivers/sensor/lsm330dlc_accel.o drivers/sensor/lsm330dlc_gyro.o drivers/sensor/ak8975.o drivers/sensor/bh1721.o drivers/sensor/al3201.o 

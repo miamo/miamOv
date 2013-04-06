@@ -1,0 +1,9 @@
+kernel/drivers/input/touchscreen/mxt1664s.ko
+kernel/drivers/input/touchscreen/mxt1664s_sec.ko
+kernel/drivers/input/touchscreen/synaptics_s7301.ko
+kernel/drivers/input/touchscreen/synaptics_fw_updater.ko
+kernel/drivers/input/touchscreen/synaptics_sysfs.ko
+kernel/drivers/input/touchscreen/wacom/wacom_i2c.ko
+kernel/drivers/input/touchscreen/wacom/wacom_i2c_firm.ko
+kernel/drivers/input/touchscreen/wacom/wacom_i2c_flash.ko
+kernel/drivers/input/touchscreen/wacom/wacom_i2c_func.ko

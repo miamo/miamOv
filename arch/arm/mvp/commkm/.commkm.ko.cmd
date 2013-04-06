@@ -1,0 +1,1 @@
+cmd_arch/arm/mvp/commkm/commkm.ko := /usr/local/arm/arm-eabi-4.4.3/bin/arm-eabi-ld -EL -r  -T /home/miamo/android/kernel/miamOv/scripts/module-common.lds --build-id  -o arch/arm/mvp/commkm/commkm.ko arch/arm/mvp/commkm/commkm.o arch/arm/mvp/commkm/commkm.mod.o
